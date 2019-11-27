@@ -4,6 +4,8 @@ A new line is added to file.
 
 A new line added to master branch.
 
+another line in master branch.
+
 This line should go to new branch.
 
 another line in test branch.
