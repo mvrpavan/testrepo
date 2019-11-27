@@ -1,3 +1,5 @@
 This is content in File1.txt
 
 A new line is added to file.
+
+A new line added to master branch.
