@@ -1,3 +1,5 @@
 This is content in File1.txt
 
 A new line is added to file.
+
+This line should go to new branch.
